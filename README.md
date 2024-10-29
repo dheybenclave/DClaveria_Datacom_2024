@@ -24,15 +24,12 @@ The applicant may or may not use Docker containers.
 The applicant is encouraged to expand on the original scope if they so desire.
 
 
-========================================================================================================
-
-Dheo Claveria - Technical Exam - Test Automation Testing
-
-Programming Language       : Java
-Automation Tools           : Selenium WebDriver, Serenity BDD, Cucumber, Screenplay
-IDE                        : IntelliJ (community edition)
-
-========================================================================================================
+    ========================================================================================================
+                 Dheo Claveria - Technical Exam - Test Automation Testing
+                 Programming Language       : Java
+                 Automation Tools           : Selenium WebDriver, Serenity BDD, Cucumber, Screenplay
+                 IDE                        : IntelliJ (community edition)
+    ========================================================================================================
 
 You can test it locally using the following steps:
 
