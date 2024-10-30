@@ -41,7 +41,7 @@ You can test it locally using the following steps:
                * "mvn clean verify -Dtags="datacom_contact_us"       : for ContacUs Page
        
 6. Or Using IntellJ :
-   Go to src/test/resources/features/grid/gridtesting.feature and you will the green triangle(start) button and click for specific run
+   Go to src/test/resources/features/Datacom/ValidateAndVerifyContactUsPage.feature and you will the green triangle(start) button and click for specific run
  
     ![img.png](img.png)
 7. Or using the Run.xml for global testing using tags: click the edit config > update the tags in Program Arguments > Save > run
